@@ -1,0 +1,3514 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 3.3.0.1338 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>2017/07/02 午後0:00:14</name>
+    <time>2017-07-02T03:00:14.729Z</time>
+  </metadata>
+  <wpt lat="43.192451" lon="141.819916">
+    <ele>97</ele>
+    <time>2017-07-02T04:45:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19245, 141.81992
+Elevation: 97 m
+Time: 2017/07/02 午後1:45:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192413" lon="141.819931">
+    <ele>98</ele>
+    <time>2017-07-02T04:45:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192413, 141.81993
+Elevation: 98 m
+Time: 2017/07/02 午後1:45:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192394" lon="141.819931">
+    <ele>99</ele>
+    <time>2017-07-02T04:45:13.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192394, 141.81993
+Elevation: 99 m
+Time: 2017/07/02 午後1:45:13</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192387" lon="141.819946">
+    <ele>0</ele>
+    <time>2017-07-02T04:45:00.933Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192387, 141.81995
+Elevation: 0 m
+Time: 2017/07/02 午後1:45:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192345" lon="141.819946">
+    <ele>96</ele>
+    <time>2017-07-02T04:44:36.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192345, 141.81995
+Elevation: 96 m
+Time: 2017/07/02 午後1:44:36</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192314" lon="141.819977">
+    <ele>96</ele>
+    <time>2017-07-02T04:44:31.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192314, 141.81998
+Elevation: 96 m
+Time: 2017/07/02 午後1:44:31</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192291" lon="141.819977">
+    <ele>95</ele>
+    <time>2017-07-02T04:44:27.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19229, 141.81998
+Elevation: 95 m
+Time: 2017/07/02 午後1:44:27</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192276" lon="141.820007">
+    <ele>95</ele>
+    <time>2017-07-02T04:44:22.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192276, 141.82
+Elevation: 95 m
+Time: 2017/07/02 午後1:44:22</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192242" lon="141.819992">
+    <ele>94</ele>
+    <time>2017-07-02T04:44:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19224, 141.81999
+Elevation: 94 m
+Time: 2017/07/02 午後1:44:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192207" lon="141.819992">
+    <ele>94</ele>
+    <time>2017-07-02T04:44:11.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192207, 141.81999
+Elevation: 94 m
+Time: 2017/07/02 午後1:44:11</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192184" lon="141.820007">
+    <ele>94</ele>
+    <time>2017-07-02T04:44:06.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192184, 141.82
+Elevation: 94 m
+Time: 2017/07/02 午後1:44:06</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192162" lon="141.820007">
+    <ele>95</ele>
+    <time>2017-07-02T04:44:00.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19216, 141.82
+Elevation: 95 m
+Time: 2017/07/02 午後1:44:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192146" lon="141.820007">
+    <ele>97</ele>
+    <time>2017-07-02T04:43:54.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192146, 141.82
+Elevation: 97 m
+Time: 2017/07/02 午後1:43:54</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192139" lon="141.819992">
+    <ele>96</ele>
+    <time>2017-07-02T04:43:50.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19214, 141.81999
+Elevation: 96 m
+Time: 2017/07/02 午後1:43:50</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192127" lon="141.819992">
+    <ele>97</ele>
+    <time>2017-07-02T04:43:45.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192127, 141.81999
+Elevation: 97 m
+Time: 2017/07/02 午後1:43:45</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192101" lon="141.820023">
+    <ele>96</ele>
+    <time>2017-07-02T04:43:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.1921, 141.82002
+Elevation: 96 m
+Time: 2017/07/02 午後1:43:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192081" lon="141.820023">
+    <ele>95</ele>
+    <time>2017-07-02T04:43:23.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19208, 141.82002
+Elevation: 95 m
+Time: 2017/07/02 午後1:43:23</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192062" lon="141.820038">
+    <ele>95</ele>
+    <time>2017-07-02T04:43:18.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192062, 141.82004
+Elevation: 95 m
+Time: 2017/07/02 午後1:43:18</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192032" lon="141.820038">
+    <ele>97</ele>
+    <time>2017-07-02T04:43:13.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19203, 141.82004
+Elevation: 97 m
+Time: 2017/07/02 午後1:43:13</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192005" lon="141.820038">
+    <ele>99</ele>
+    <time>2017-07-02T04:43:08.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192005, 141.82004
+Elevation: 99 m
+Time: 2017/07/02 午後1:43:08</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191978" lon="141.820038">
+    <ele>100</ele>
+    <time>2017-07-02T04:42:57.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19198, 141.82004
+Elevation: 100 m
+Time: 2017/07/02 午後1:42:57</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191952" lon="141.820038">
+    <ele>100</ele>
+    <time>2017-07-02T04:42:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19195, 141.82004
+Elevation: 100 m
+Time: 2017/07/02 午後1:42:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191929" lon="141.820053">
+    <ele>99</ele>
+    <time>2017-07-02T04:42:47.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19193, 141.82005
+Elevation: 99 m
+Time: 2017/07/02 午後1:42:47</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191914" lon="141.820053">
+    <ele>101</ele>
+    <time>2017-07-02T04:42:41.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191914, 141.82005
+Elevation: 101 m
+Time: 2017/07/02 午後1:42:41</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191887" lon="141.820053">
+    <ele>101</ele>
+    <time>2017-07-02T04:42:35.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191887, 141.82005
+Elevation: 101 m
+Time: 2017/07/02 午後1:42:35</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191853" lon="141.820053">
+    <ele>103</ele>
+    <time>2017-07-02T04:42:29.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191853, 141.82005
+Elevation: 103 m
+Time: 2017/07/02 午後1:42:29</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191822" lon="141.820038">
+    <ele>103</ele>
+    <time>2017-07-02T04:42:24.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191822, 141.82004
+Elevation: 103 m
+Time: 2017/07/02 午後1:42:24</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191803" lon="141.820038">
+    <ele>103</ele>
+    <time>2017-07-02T04:42:19.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191803, 141.82004
+Elevation: 103 m
+Time: 2017/07/02 午後1:42:19</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191776" lon="141.820053">
+    <ele>101</ele>
+    <time>2017-07-02T04:42:14.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191776, 141.82005
+Elevation: 101 m
+Time: 2017/07/02 午後1:42:14</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191753" lon="141.820068">
+    <ele>100</ele>
+    <time>2017-07-02T04:42:10.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191753, 141.82007
+Elevation: 100 m
+Time: 2017/07/02 午後1:42:10</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191715" lon="141.820084">
+    <ele>102</ele>
+    <time>2017-07-02T04:42:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191715, 141.82008
+Elevation: 102 m
+Time: 2017/07/02 午後1:42:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191692" lon="141.820084">
+    <ele>102</ele>
+    <time>2017-07-02T04:42:00.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191692, 141.82008
+Elevation: 102 m
+Time: 2017/07/02 午後1:42:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191669" lon="141.820114">
+    <ele>100</ele>
+    <time>2017-07-02T04:41:55.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19167, 141.82011
+Elevation: 100 m
+Time: 2017/07/02 午後1:41:55</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191658" lon="141.820129">
+    <ele>100</ele>
+    <time>2017-07-02T04:41:51.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191658, 141.82013
+Elevation: 100 m
+Time: 2017/07/02 午後1:41:51</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191624" lon="141.820129">
+    <ele>101</ele>
+    <time>2017-07-02T04:41:45.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191624, 141.82013
+Elevation: 101 m
+Time: 2017/07/02 午後1:41:45</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191597" lon="141.820145">
+    <ele>100</ele>
+    <time>2017-07-02T04:41:39.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191597, 141.82014
+Elevation: 100 m
+Time: 2017/07/02 午後1:41:39</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19157" lon="141.82016">
+    <ele>99</ele>
+    <time>2017-07-02T04:41:33.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19157, 141.82016
+Elevation: 99 m
+Time: 2017/07/02 午後1:41:33</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191551" lon="141.820145">
+    <ele>98</ele>
+    <time>2017-07-02T04:41:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19155, 141.82014
+Elevation: 98 m
+Time: 2017/07/02 午後1:41:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191528" lon="141.820129">
+    <ele>98</ele>
+    <time>2017-07-02T04:41:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19153, 141.82013
+Elevation: 98 m
+Time: 2017/07/02 午後1:41:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191486" lon="141.820114">
+    <ele>104</ele>
+    <time>2017-07-02T04:41:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191486, 141.82011
+Elevation: 104 m
+Time: 2017/07/02 午後1:41:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191456" lon="141.820129">
+    <ele>104</ele>
+    <time>2017-07-02T04:41:09.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191456, 141.82013
+Elevation: 104 m
+Time: 2017/07/02 午後1:41:09</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191437" lon="141.820129">
+    <ele>103</ele>
+    <time>2017-07-02T04:40:56.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191437, 141.82013
+Elevation: 103 m
+Time: 2017/07/02 午後1:40:56</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191414" lon="141.820145">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:47.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191414, 141.82014
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:47</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191414" lon="141.820145">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:42.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191414, 141.82014
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:42</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191406" lon="141.82016">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191406, 141.82016
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191395" lon="141.820175">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:32.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191395, 141.82018
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:32</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191364" lon="141.820175">
+    <ele>101</ele>
+    <time>2017-07-02T04:40:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191364, 141.82018
+Elevation: 101 m
+Time: 2017/07/02 午後1:40:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191334" lon="141.820206">
+    <ele>101</ele>
+    <time>2017-07-02T04:40:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191334, 141.8202
+Elevation: 101 m
+Time: 2017/07/02 午後1:40:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191292" lon="141.820206">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19129, 141.8202
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191273" lon="141.82019">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:12.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191273, 141.82019
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:12</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191265" lon="141.820206">
+    <ele>102</ele>
+    <time>2017-07-02T04:40:08.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191265, 141.8202
+Elevation: 102 m
+Time: 2017/07/02 午後1:40:08</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191231" lon="141.82019">
+    <ele>101</ele>
+    <time>2017-07-02T04:40:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19123, 141.82019
+Elevation: 101 m
+Time: 2017/07/02 午後1:40:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191208" lon="141.82019">
+    <ele>100</ele>
+    <time>2017-07-02T04:40:00.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191208, 141.82019
+Elevation: 100 m
+Time: 2017/07/02 午後1:40:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191189" lon="141.82019">
+    <ele>100</ele>
+    <time>2017-07-02T04:39:56.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19119, 141.82019
+Elevation: 100 m
+Time: 2017/07/02 午後1:39:56</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19117" lon="141.820221">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:41.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19117, 141.82022
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:41</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191128" lon="141.820236">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:36.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191128, 141.82024
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:36</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191097" lon="141.820236">
+    <ele>101</ele>
+    <time>2017-07-02T04:39:30.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191097, 141.82024
+Elevation: 101 m
+Time: 2017/07/02 午後1:39:30</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191082" lon="141.820221">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191082, 141.82022
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191074" lon="141.820221">
+    <ele>103</ele>
+    <time>2017-07-02T04:39:20.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191074, 141.82022
+Elevation: 103 m
+Time: 2017/07/02 午後1:39:20</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191044" lon="141.820221">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:15.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191044, 141.82022
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:15</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191013" lon="141.820221">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:10.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191013, 141.82022
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:10</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190983" lon="141.820236">
+    <ele>102</ele>
+    <time>2017-07-02T04:39:06.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190983, 141.82024
+Elevation: 102 m
+Time: 2017/07/02 午後1:39:06</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190956" lon="141.820236">
+    <ele>100</ele>
+    <time>2017-07-02T04:39:01.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190956, 141.82024
+Elevation: 100 m
+Time: 2017/07/02 午後1:39:01</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190945" lon="141.820251">
+    <ele>100</ele>
+    <time>2017-07-02T04:38:57.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190945, 141.82025
+Elevation: 100 m
+Time: 2017/07/02 午後1:38:57</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190929" lon="141.820251">
+    <ele>100</ele>
+    <time>2017-07-02T04:38:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19093, 141.82025
+Elevation: 100 m
+Time: 2017/07/02 午後1:38:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190899" lon="141.820267">
+    <ele>99</ele>
+    <time>2017-07-02T04:38:47.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.1909, 141.82027
+Elevation: 99 m
+Time: 2017/07/02 午後1:38:47</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190861" lon="141.820282">
+    <ele>98</ele>
+    <time>2017-07-02T04:38:42.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19086, 141.82028
+Elevation: 98 m
+Time: 2017/07/02 午後1:38:42</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190834" lon="141.820297">
+    <ele>99</ele>
+    <time>2017-07-02T04:38:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190834, 141.8203
+Elevation: 99 m
+Time: 2017/07/02 午後1:38:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190826" lon="141.820282">
+    <ele>99</ele>
+    <time>2017-07-02T04:38:32.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190826, 141.82028
+Elevation: 99 m
+Time: 2017/07/02 午後1:38:32</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189838" lon="141.820297">
+    <ele>94</ele>
+    <time>2017-07-02T04:36:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.18984, 141.8203
+Elevation: 94 m
+Time: 2017/07/02 午後1:36:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189835" lon="141.820282">
+    <ele>92</ele>
+    <time>2017-07-02T04:36:32.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189835, 141.82028
+Elevation: 92 m
+Time: 2017/07/02 午後1:36:32</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189831" lon="141.820251">
+    <ele>93</ele>
+    <time>2017-07-02T04:36:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.18983, 141.82025
+Elevation: 93 m
+Time: 2017/07/02 午後1:36:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189812" lon="141.820221">
+    <ele>91</ele>
+    <time>2017-07-02T04:36:23.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.18981, 141.82022
+Elevation: 91 m
+Time: 2017/07/02 午後1:36:23</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189804" lon="141.820221">
+    <ele>93</ele>
+    <time>2017-07-02T04:36:18.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189804, 141.82022
+Elevation: 93 m
+Time: 2017/07/02 午後1:36:18</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189808" lon="141.82019">
+    <ele>92</ele>
+    <time>2017-07-02T04:36:13.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189808, 141.82019
+Elevation: 92 m
+Time: 2017/07/02 午後1:36:13</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189816" lon="141.82016">
+    <ele>93</ele>
+    <time>2017-07-02T04:36:08.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189816, 141.82016
+Elevation: 93 m
+Time: 2017/07/02 午後1:36:08</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189816" lon="141.820114">
+    <ele>92</ele>
+    <time>2017-07-02T04:36:02.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189816, 141.82011
+Elevation: 92 m
+Time: 2017/07/02 午後1:36:02</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189827" lon="141.820084">
+    <ele>92</ele>
+    <time>2017-07-02T04:35:57.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189827, 141.82008
+Elevation: 92 m
+Time: 2017/07/02 午後1:35:57</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189835" lon="141.820007">
+    <ele>93</ele>
+    <time>2017-07-02T04:35:49.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189835, 141.82
+Elevation: 93 m
+Time: 2017/07/02 午後1:35:49</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189869" lon="141.819977">
+    <ele>97</ele>
+    <time>2017-07-02T04:35:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.18987, 141.81998
+Elevation: 97 m
+Time: 2017/07/02 午後1:35:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.18988" lon="141.819962">
+    <ele>99</ele>
+    <time>2017-07-02T04:35:38.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.18988, 141.81996
+Elevation: 99 m
+Time: 2017/07/02 午後1:35:38</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189899" lon="141.819946">
+    <ele>101</ele>
+    <time>2017-07-02T04:35:31.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.1899, 141.81995
+Elevation: 101 m
+Time: 2017/07/02 午後1:35:31</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.189907" lon="141.819931">
+    <ele>100</ele>
+    <time>2017-07-02T04:35:24.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.189907, 141.81993
+Elevation: 100 m
+Time: 2017/07/02 午後1:35:24</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190983" lon="141.819534">
+    <ele>99</ele>
+    <time>2017-07-02T04:33:12.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190983, 141.81953
+Elevation: 99 m
+Time: 2017/07/02 午後1:33:12</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190945" lon="141.819687">
+    <ele>99</ele>
+    <time>2017-07-02T04:32:53.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190945, 141.81969
+Elevation: 99 m
+Time: 2017/07/02 午後1:32:53</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190948" lon="141.819717">
+    <ele>98</ele>
+    <time>2017-07-02T04:32:47.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19095, 141.81972
+Elevation: 98 m
+Time: 2017/07/02 午後1:32:47</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190948" lon="141.819763">
+    <ele>97</ele>
+    <time>2017-07-02T04:32:41.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19095, 141.81976
+Elevation: 97 m
+Time: 2017/07/02 午後1:32:41</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190952" lon="141.819794">
+    <ele>97</ele>
+    <time>2017-07-02T04:32:35.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190952, 141.8198
+Elevation: 97 m
+Time: 2017/07/02 午後1:32:35</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190952" lon="141.819824">
+    <ele>95</ele>
+    <time>2017-07-02T04:32:30.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190952, 141.81982
+Elevation: 95 m
+Time: 2017/07/02 午後1:32:30</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190945" lon="141.81987">
+    <ele>98</ele>
+    <time>2017-07-02T04:32:23.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190945, 141.81987
+Elevation: 98 m
+Time: 2017/07/02 午後1:32:23</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190952" lon="141.819885">
+    <ele>97</ele>
+    <time>2017-07-02T04:32:18.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190952, 141.81989
+Elevation: 97 m
+Time: 2017/07/02 午後1:32:18</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190948" lon="141.819931">
+    <ele>97</ele>
+    <time>2017-07-02T04:32:12.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19095, 141.81993
+Elevation: 97 m
+Time: 2017/07/02 午後1:32:12</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19096" lon="141.819962">
+    <ele>98</ele>
+    <time>2017-07-02T04:32:05.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19096, 141.81996
+Elevation: 98 m
+Time: 2017/07/02 午後1:32:05</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190968" lon="141.820007">
+    <ele>98</ele>
+    <time>2017-07-02T04:31:58.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190968, 141.82
+Elevation: 98 m
+Time: 2017/07/02 午後1:31:58</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19096" lon="141.820038">
+    <ele>97</ele>
+    <time>2017-07-02T04:31:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19096, 141.82004
+Elevation: 97 m
+Time: 2017/07/02 午後1:31:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190952" lon="141.820114">
+    <ele>99</ele>
+    <time>2017-07-02T04:31:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190952, 141.82011
+Elevation: 99 m
+Time: 2017/07/02 午後1:31:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190948" lon="141.820145">
+    <ele>98</ele>
+    <time>2017-07-02T04:31:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19095, 141.82014
+Elevation: 98 m
+Time: 2017/07/02 午後1:31:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.190952" lon="141.820145">
+    <ele>99</ele>
+    <time>2017-07-02T04:31:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.190952, 141.82014
+Elevation: 99 m
+Time: 2017/07/02 午後1:31:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191025" lon="141.820114">
+    <ele>99</ele>
+    <time>2017-07-02T04:31:10.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191025, 141.82011
+Elevation: 99 m
+Time: 2017/07/02 午後1:31:10</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191059" lon="141.820114">
+    <ele>98</ele>
+    <time>2017-07-02T04:31:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19106, 141.82011
+Elevation: 98 m
+Time: 2017/07/02 午後1:31:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191082" lon="141.820099">
+    <ele>98</ele>
+    <time>2017-07-02T04:30:59.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191082, 141.8201
+Elevation: 98 m
+Time: 2017/07/02 午後1:30:59</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191109" lon="141.820114">
+    <ele>99</ele>
+    <time>2017-07-02T04:30:53.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19111, 141.82011
+Elevation: 99 m
+Time: 2017/07/02 午後1:30:53</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191135" lon="141.820114">
+    <ele>99</ele>
+    <time>2017-07-02T04:30:48.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191135, 141.82011
+Elevation: 99 m
+Time: 2017/07/02 午後1:30:48</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191151" lon="141.820114">
+    <ele>99</ele>
+    <time>2017-07-02T04:30:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19115, 141.82011
+Elevation: 99 m
+Time: 2017/07/02 午後1:30:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191174" lon="141.820099">
+    <ele>97</ele>
+    <time>2017-07-02T04:30:38.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191174, 141.8201
+Elevation: 97 m
+Time: 2017/07/02 午後1:30:38</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191193" lon="141.820099">
+    <ele>98</ele>
+    <time>2017-07-02T04:30:33.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191193, 141.8201
+Elevation: 98 m
+Time: 2017/07/02 午後1:30:33</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191223" lon="141.820084">
+    <ele>98</ele>
+    <time>2017-07-02T04:30:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191223, 141.82008
+Elevation: 98 m
+Time: 2017/07/02 午後1:30:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191242" lon="141.820068">
+    <ele>99</ele>
+    <time>2017-07-02T04:30:23.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191242, 141.82007
+Elevation: 99 m
+Time: 2017/07/02 午後1:30:23</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191257" lon="141.820084">
+    <ele>100</ele>
+    <time>2017-07-02T04:30:17.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191257, 141.82008
+Elevation: 100 m
+Time: 2017/07/02 午後1:30:17</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191284" lon="141.820068">
+    <ele>100</ele>
+    <time>2017-07-02T04:30:11.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191284, 141.82007
+Elevation: 100 m
+Time: 2017/07/02 午後1:30:11</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191303" lon="141.820068">
+    <ele>99</ele>
+    <time>2017-07-02T04:30:05.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191303, 141.82007
+Elevation: 99 m
+Time: 2017/07/02 午後1:30:05</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191334" lon="141.820053">
+    <ele>97</ele>
+    <time>2017-07-02T04:29:59.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191334, 141.82005
+Elevation: 97 m
+Time: 2017/07/02 午後1:29:59</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19136" lon="141.820053">
+    <ele>96</ele>
+    <time>2017-07-02T04:29:54.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19136, 141.82005
+Elevation: 96 m
+Time: 2017/07/02 午後1:29:54</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191395" lon="141.820023">
+    <ele>97</ele>
+    <time>2017-07-02T04:29:48.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191395, 141.82002
+Elevation: 97 m
+Time: 2017/07/02 午後1:29:48</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191402" lon="141.820038">
+    <ele>97</ele>
+    <time>2017-07-02T04:29:44.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191402, 141.82004
+Elevation: 97 m
+Time: 2017/07/02 午後1:29:44</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19141" lon="141.820084">
+    <ele>96</ele>
+    <time>2017-07-02T04:29:32.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19141, 141.82008
+Elevation: 96 m
+Time: 2017/07/02 午後1:29:32</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191452" lon="141.820007">
+    <ele>98</ele>
+    <time>2017-07-02T03:12:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191452, 141.82
+Elevation: 98 m
+Time: 2017/07/02 午後0:12:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191483" lon="141.820007">
+    <ele>98</ele>
+    <time>2017-07-02T03:12:00.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191483, 141.82
+Elevation: 98 m
+Time: 2017/07/02 午後0:12:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191505" lon="141.820007">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:55.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191505, 141.82
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:55</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191525" lon="141.820007">
+    <ele>99</ele>
+    <time>2017-07-02T03:11:50.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191525, 141.82
+Elevation: 99 m
+Time: 2017/07/02 午後0:11:50</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191555" lon="141.819992">
+    <ele>99</ele>
+    <time>2017-07-02T03:11:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191555, 141.81999
+Elevation: 99 m
+Time: 2017/07/02 午後0:11:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191593" lon="141.819977">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:35.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191593, 141.81998
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:35</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191612" lon="141.819977">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:31.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191612, 141.81998
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:31</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191635" lon="141.819977">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191635, 141.81998
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19165" lon="141.819962">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:22.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19165, 141.81996
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:22</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191681" lon="141.819962">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19168, 141.81996
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191711" lon="141.819946">
+    <ele>98</ele>
+    <time>2017-07-02T03:11:10.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19171, 141.81995
+Elevation: 98 m
+Time: 2017/07/02 午後0:11:10</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19173" lon="141.819946">
+    <ele>99</ele>
+    <time>2017-07-02T03:11:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19173, 141.81995
+Elevation: 99 m
+Time: 2017/07/02 午後0:11:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191753" lon="141.819931">
+    <ele>98</ele>
+    <time>2017-07-02T03:10:59.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191753, 141.81993
+Elevation: 98 m
+Time: 2017/07/02 午後0:10:59</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191784" lon="141.819931">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191784, 141.81993
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191799" lon="141.819931">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:48.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.1918, 141.81993
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:48</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191826" lon="141.819916">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:42.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191826, 141.81992
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:42</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191845" lon="141.819916">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191845, 141.81992
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191875" lon="141.819901">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:31.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191875, 141.8199
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:31</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191898" lon="141.819901">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.1919, 141.8199
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191925" lon="141.819901">
+    <ele>96</ele>
+    <time>2017-07-02T03:10:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191925, 141.8199
+Elevation: 96 m
+Time: 2017/07/02 午後0:10:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191948" lon="141.819901">
+    <ele>96</ele>
+    <time>2017-07-02T03:10:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191948, 141.8199
+Elevation: 96 m
+Time: 2017/07/02 午後0:10:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191967" lon="141.819885">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:09.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191967, 141.81989
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:09</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191994" lon="141.819901">
+    <ele>97</ele>
+    <time>2017-07-02T03:10:02.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191994, 141.8199
+Elevation: 97 m
+Time: 2017/07/02 午後0:10:02</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192024" lon="141.819885">
+    <ele>98</ele>
+    <time>2017-07-02T03:09:56.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192024, 141.81989
+Elevation: 98 m
+Time: 2017/07/02 午後0:09:56</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192051" lon="141.819885">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:51.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19205, 141.81989
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:51</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192074" lon="141.819885">
+    <ele>98</ele>
+    <time>2017-07-02T03:09:46.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192074, 141.81989
+Elevation: 98 m
+Time: 2017/07/02 午後0:09:46</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192085" lon="141.81987">
+    <ele>98</ele>
+    <time>2017-07-02T03:09:42.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192085, 141.81987
+Elevation: 98 m
+Time: 2017/07/02 午後0:09:42</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192108" lon="141.81987">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:36.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19211, 141.81987
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:36</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192146" lon="141.819855">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:29.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192146, 141.81985
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:29</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192173" lon="141.819855">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:22.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192173, 141.81985
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:22</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192181" lon="141.819855">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:20.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19218, 141.81985
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:20</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192215" lon="141.819839">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:14.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192215, 141.81984
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:14</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192242" lon="141.819839">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:08.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19224, 141.81984
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:08</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192261" lon="141.819824">
+    <ele>97</ele>
+    <time>2017-07-02T03:09:02.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19226, 141.81982
+Elevation: 97 m
+Time: 2017/07/02 午後0:09:02</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192284" lon="141.819824">
+    <ele>97</ele>
+    <time>2017-07-02T03:08:55.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192284, 141.81982
+Elevation: 97 m
+Time: 2017/07/02 午後0:08:55</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192307" lon="141.819824">
+    <ele>97</ele>
+    <time>2017-07-02T03:08:49.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192307, 141.81982
+Elevation: 97 m
+Time: 2017/07/02 午後0:08:49</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192329" lon="141.819809">
+    <ele>97</ele>
+    <time>2017-07-02T03:08:44.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19233, 141.81981
+Elevation: 97 m
+Time: 2017/07/02 午後0:08:44</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192352" lon="141.819809">
+    <ele>97</ele>
+    <time>2017-07-02T03:08:38.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192352, 141.81981
+Elevation: 97 m
+Time: 2017/07/02 午後0:08:38</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192379" lon="141.819794">
+    <ele>96</ele>
+    <time>2017-07-02T03:08:32.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19238, 141.8198
+Elevation: 96 m
+Time: 2017/07/02 午後0:08:32</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19241" lon="141.819778">
+    <ele>96</ele>
+    <time>2017-07-02T03:08:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19241, 141.81978
+Elevation: 96 m
+Time: 2017/07/02 午後0:08:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192432" lon="141.819778">
+    <ele>96</ele>
+    <time>2017-07-02T03:08:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192432, 141.81978
+Elevation: 96 m
+Time: 2017/07/02 午後0:08:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192455" lon="141.819763">
+    <ele>96</ele>
+    <time>2017-07-02T03:08:16.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192455, 141.81976
+Elevation: 96 m
+Time: 2017/07/02 午後0:08:16</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192471" lon="141.819763">
+    <ele>96</ele>
+    <time>2017-07-02T03:08:12.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19247, 141.81976
+Elevation: 96 m
+Time: 2017/07/02 午後0:08:12</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192509" lon="141.819763">
+    <ele>97</ele>
+    <time>2017-07-02T03:08:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19251, 141.81976
+Elevation: 97 m
+Time: 2017/07/02 午後0:08:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192516" lon="141.819763">
+    <ele>96</ele>
+    <time>2017-07-02T03:07:58.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192516, 141.81976
+Elevation: 96 m
+Time: 2017/07/02 午後0:07:58</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19236" lon="141.817459">
+    <ele>126</ele>
+    <time>2017-07-02T03:03:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19236, 141.81746
+Elevation: 126 m
+Time: 2017/07/02 午後0:03:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192337" lon="141.817459">
+    <ele>126</ele>
+    <time>2017-07-02T03:03:46.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192337, 141.81746
+Elevation: 126 m
+Time: 2017/07/02 午後0:03:46</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192314" lon="141.817444">
+    <ele>126</ele>
+    <time>2017-07-02T03:03:40.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192314, 141.81744
+Elevation: 126 m
+Time: 2017/07/02 午後0:03:40</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192287" lon="141.817444">
+    <ele>125</ele>
+    <time>2017-07-02T03:03:34.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192287, 141.81744
+Elevation: 125 m
+Time: 2017/07/02 午後0:03:34</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192268" lon="141.817444">
+    <ele>125</ele>
+    <time>2017-07-02T03:03:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19227, 141.81744
+Elevation: 125 m
+Time: 2017/07/02 午後0:03:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192242" lon="141.817444">
+    <ele>125</ele>
+    <time>2017-07-02T03:03:22.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19224, 141.81744
+Elevation: 125 m
+Time: 2017/07/02 午後0:03:22</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192211" lon="141.817459">
+    <ele>125</ele>
+    <time>2017-07-02T03:03:15.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19221, 141.81746
+Elevation: 125 m
+Time: 2017/07/02 午後0:03:15</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192184" lon="141.817459">
+    <ele>125</ele>
+    <time>2017-07-02T03:03:09.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192184, 141.81746
+Elevation: 125 m
+Time: 2017/07/02 午後0:03:09</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192181" lon="141.817459">
+    <ele>126</ele>
+    <time>2017-07-02T03:03:04.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19218, 141.81746
+Elevation: 126 m
+Time: 2017/07/02 午後0:03:04</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192158" lon="141.817459">
+    <ele>126</ele>
+    <time>2017-07-02T03:02:57.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192158, 141.81746
+Elevation: 126 m
+Time: 2017/07/02 午後0:02:57</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192135" lon="141.817459">
+    <ele>125</ele>
+    <time>2017-07-02T03:02:51.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192135, 141.81746
+Elevation: 125 m
+Time: 2017/07/02 午後0:02:51</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192112" lon="141.817444">
+    <ele>124</ele>
+    <time>2017-07-02T03:02:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192112, 141.81744
+Elevation: 124 m
+Time: 2017/07/02 午後0:02:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192085" lon="141.817459">
+    <ele>125</ele>
+    <time>2017-07-02T03:02:37.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192085, 141.81746
+Elevation: 125 m
+Time: 2017/07/02 午後0:02:37</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192059" lon="141.817444">
+    <ele>124</ele>
+    <time>2017-07-02T03:02:31.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19206, 141.81744
+Elevation: 124 m
+Time: 2017/07/02 午後0:02:31</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.192028" lon="141.817459">
+    <ele>123</ele>
+    <time>2017-07-02T03:02:25.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.192028, 141.81746
+Elevation: 123 m
+Time: 2017/07/02 午後0:02:25</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191994" lon="141.817444">
+    <ele>123</ele>
+    <time>2017-07-02T03:02:19.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191994, 141.81744
+Elevation: 123 m
+Time: 2017/07/02 午後0:02:19</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191986" lon="141.817444">
+    <ele>123</ele>
+    <time>2017-07-02T03:02:15.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191986, 141.81744
+Elevation: 123 m
+Time: 2017/07/02 午後0:02:15</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191956" lon="141.817444">
+    <ele>123</ele>
+    <time>2017-07-02T03:02:08.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191956, 141.81744
+Elevation: 123 m
+Time: 2017/07/02 午後0:02:08</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191929" lon="141.817444">
+    <ele>123</ele>
+    <time>2017-07-02T03:02:02.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19193, 141.81744
+Elevation: 123 m
+Time: 2017/07/02 午後0:02:02</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191895" lon="141.817459">
+    <ele>124</ele>
+    <time>2017-07-02T03:01:56.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191895, 141.81746
+Elevation: 124 m
+Time: 2017/07/02 午後0:01:56</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19186" lon="141.817459">
+    <ele>123</ele>
+    <time>2017-07-02T03:01:50.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19186, 141.81746
+Elevation: 123 m
+Time: 2017/07/02 午後0:01:50</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191826" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:43.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191826, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:43</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191803" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:36.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191803, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:36</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191776" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:28.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191776, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:28</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191761" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:23.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19176, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:23</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191734" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:18.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191734, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:18</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191711" lon="141.817459">
+    <ele>122</ele>
+    <time>2017-07-02T03:01:13.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19171, 141.81746
+Elevation: 122 m
+Time: 2017/07/02 午後0:01:13</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191681" lon="141.817459">
+    <ele>120</ele>
+    <time>2017-07-02T03:01:07.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19168, 141.81746
+Elevation: 120 m
+Time: 2017/07/02 午後0:01:07</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191654" lon="141.817444">
+    <ele>121</ele>
+    <time>2017-07-02T03:01:01.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191654, 141.81744
+Elevation: 121 m
+Time: 2017/07/02 午後0:01:01</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191643" lon="141.817444">
+    <ele>122</ele>
+    <time>2017-07-02T03:00:57.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191643, 141.81744
+Elevation: 122 m
+Time: 2017/07/02 午後0:00:57</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.19162" lon="141.817444">
+    <ele>123</ele>
+    <time>2017-07-02T03:00:52.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19162, 141.81744
+Elevation: 123 m
+Time: 2017/07/02 午後0:00:52</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191597" lon="141.817429">
+    <ele>122</ele>
+    <time>2017-07-02T03:00:47.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191597, 141.81743
+Elevation: 122 m
+Time: 2017/07/02 午後0:00:47</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191582" lon="141.817429">
+    <ele>122</ele>
+    <time>2017-07-02T03:00:42.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19158, 141.81743
+Elevation: 122 m
+Time: 2017/07/02 午後0:00:42</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191551" lon="141.817429">
+    <ele>122</ele>
+    <time>2017-07-02T03:00:36.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.19155, 141.81743
+Elevation: 122 m
+Time: 2017/07/02 午後0:00:36</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191517" lon="141.817429">
+    <ele>123</ele>
+    <time>2017-07-02T03:00:30.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191517, 141.81743
+Elevation: 123 m
+Time: 2017/07/02 午後0:00:30</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191513" lon="141.817429">
+    <ele>123</ele>
+    <time>2017-07-02T03:00:26.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191513, 141.81743
+Elevation: 123 m
+Time: 2017/07/02 午後0:00:26</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191498" lon="141.817429">
+    <ele>123</ele>
+    <time>2017-07-02T03:00:21.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191498, 141.81743
+Elevation: 123 m
+Time: 2017/07/02 午後0:00:21</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <wpt lat="43.191467" lon="141.817429">
+    <ele>123</ele>
+    <time>2017-07-02T03:00:00.000Z</time>
+    <name>Point on map</name>
+    <desc>Coords: 43.191467, 141.81743
+Elevation: 123 m
+Time: 2017/07/02 午後0:00:00</desc>
+    <extensions>
+      <geotracker:meta visited="1" />
+    </extensions>
+  </wpt>
+  <trk>
+    <name>2017/07/02 午後1:25:47</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>526.43</length>
+        <duration>969470</duration>
+        <creationtime>2017-07-02T04:25:47.993Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.192513" lon="141.819763">
+        <ele>99</ele>
+        <time>2017-07-02T04:25:46.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="43.191441" lon="141.820099">
+        <ele>97</ele>
+        <time>2017-07-02T04:29:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="166.4" s="1.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191353" lon="141.820053">
+        <ele>97</ele>
+        <time>2017-07-02T04:29:56.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191257" lon="141.820084">
+        <ele>100</ele>
+        <time>2017-07-02T04:30:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="167" s="0.66" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19117" lon="141.820099">
+        <ele>98</ele>
+        <time>2017-07-02T04:30:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="164.3" s="0.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191078" lon="141.820099">
+        <ele>98</ele>
+        <time>2017-07-02T04:31:00.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190983" lon="141.820145">
+        <ele>100</ele>
+        <time>2017-07-02T04:31:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="159.1" s="1.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190968" lon="141.820007">
+        <ele>97</ele>
+        <time>2017-07-02T04:31:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="268" s="0.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190952" lon="141.819885">
+        <ele>97</ele>
+        <time>2017-07-02T04:32:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="262.1" s="0.66" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190948" lon="141.819763">
+        <ele>97</ele>
+        <time>2017-07-02T04:32:41.000Z</time>
+        <extensions>
+          <geotracker:meta c="276.9" s="0.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190971" lon="141.819641">
+        <ele>100</ele>
+        <time>2017-07-02T04:33:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="310.6" s="1.19" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="43.190777" lon="141.819702">
+        <ele>101</ele>
+        <time>2017-07-02T04:33:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="178.9" s="1.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190689" lon="141.819733">
+        <ele>100</ele>
+        <time>2017-07-02T04:33:58.000Z</time>
+        <extensions>
+          <geotracker:meta c="175" s="0.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19059" lon="141.819778">
+        <ele>101</ele>
+        <time>2017-07-02T04:34:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="171.7" s="1.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190502" lon="141.819794">
+        <ele>101</ele>
+        <time>2017-07-02T04:34:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="170.6" s="1.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190407" lon="141.819809">
+        <ele>101</ele>
+        <time>2017-07-02T04:34:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="168.3" s="1.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190315" lon="141.819839">
+        <ele>101</ele>
+        <time>2017-07-02T04:34:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="175.6" s="1.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190228" lon="141.81987">
+        <ele>101</ele>
+        <time>2017-07-02T04:34:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="168.2" s="1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190132" lon="141.819885">
+        <ele>99</ele>
+        <time>2017-07-02T04:34:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="182.7" s="0.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190037" lon="141.819885">
+        <ele>98</ele>
+        <time>2017-07-02T04:35:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="172" s="1.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.189945" lon="141.819916">
+        <ele>100</ele>
+        <time>2017-07-02T04:35:19.000Z</time>
+        <extensions>
+          <geotracker:meta c="183.2" s="1.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.189857" lon="141.819977">
+        <ele>96</ele>
+        <time>2017-07-02T04:35:44.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.189823" lon="141.820099">
+        <ele>92</ele>
+        <time>2017-07-02T04:36:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="125.8" s="1.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.189812" lon="141.820221">
+        <ele>91</ele>
+        <time>2017-07-02T04:36:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="113.2" s="0.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.189861" lon="141.820328">
+        <ele>95</ele>
+        <time>2017-07-02T04:36:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.3" s="0.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.18996" lon="141.820328">
+        <ele>92</ele>
+        <time>2017-07-02T04:36:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="354.8" s="1.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190056" lon="141.820312">
+        <ele>95</ele>
+        <time>2017-07-02T04:37:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="348.3" s="0.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190147" lon="141.820282">
+        <ele>96</ele>
+        <time>2017-07-02T04:37:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="346.1" s="1.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190239" lon="141.820267">
+        <ele>96</ele>
+        <time>2017-07-02T04:37:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="346.6" s="1.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190338" lon="141.820251">
+        <ele>96</ele>
+        <time>2017-07-02T04:37:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="3.4" s="1.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190434" lon="141.820221">
+        <ele>96</ele>
+        <time>2017-07-02T04:37:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="351.3" s="0.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190533" lon="141.82019">
+        <ele>99</ele>
+        <time>2017-07-02T04:37:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="343.9" s="1.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190624" lon="141.820175">
+        <ele>101</ele>
+        <time>2017-07-02T04:38:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="354.3" s="0.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190716" lon="141.820145">
+        <ele>99</ele>
+        <time>2017-07-02T04:38:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="350.3" s="0.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190811" lon="141.820175">
+        <ele>97</ele>
+        <time>2017-07-02T04:38:23.000Z</time>
+        <extensions>
+          <geotracker:meta c="19.2" s="1.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190834" lon="141.820297">
+        <ele>99</ele>
+        <time>2017-07-02T04:38:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="355.8" s="0.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190929" lon="141.820251">
+        <ele>100</ele>
+        <time>2017-07-02T04:38:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="339.6" s="0.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191021" lon="141.820221">
+        <ele>103</ele>
+        <time>2017-07-02T04:39:11.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19112" lon="141.820236">
+        <ele>102</ele>
+        <time>2017-07-02T04:39:35.000Z</time>
+        <extensions>
+          <geotracker:meta c="353.5" s="0.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191208" lon="141.82019">
+        <ele>100</ele>
+        <time>2017-07-02T04:40:00.000Z</time>
+        <extensions>
+          <geotracker:meta c="334.2" s="1.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191303" lon="141.82019">
+        <ele>102</ele>
+        <time>2017-07-02T04:40:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="349.9" s="0.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191395" lon="141.820175">
+        <ele>102</ele>
+        <time>2017-07-02T04:40:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="353.4" s="0.32" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191479" lon="141.820114">
+        <ele>103</ele>
+        <time>2017-07-02T04:41:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="322.9" s="0.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19157" lon="141.82016">
+        <ele>99</ele>
+        <time>2017-07-02T04:41:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="7.1" s="0.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191662" lon="141.820114">
+        <ele>100</ele>
+        <time>2017-07-02T04:41:52.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191746" lon="141.820068">
+        <ele>100</ele>
+        <time>2017-07-02T04:42:09.000Z</time>
+        <extensions>
+          <geotracker:meta c="348.6" s="0.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191833" lon="141.820038">
+        <ele>103</ele>
+        <time>2017-07-02T04:42:26.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191929" lon="141.820053">
+        <ele>99</ele>
+        <time>2017-07-02T04:42:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="346" s="0.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19202" lon="141.820038">
+        <ele>98</ele>
+        <time>2017-07-02T04:43:10.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192112" lon="141.819992">
+        <ele>97</ele>
+        <time>2017-07-02T04:43:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="338.6" s="1.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192204" lon="141.819992">
+        <ele>94</ele>
+        <time>2017-07-02T04:44:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="346.8" s="0.84" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192291" lon="141.819977">
+        <ele>95</ele>
+        <time>2017-07-02T04:44:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="359.8" s="0.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192379" lon="141.819931">
+        <ele>98</ele>
+        <time>2017-07-02T04:44:44.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="43.192387" lon="141.819946">
+        <ele>98</ele>
+        <time>2017-07-02T04:45:03.864Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  
+    <name>2017/07/02 午後1:46:36</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>606.09</length>
+        <duration>912655</duration>
+        <creationtime>2017-07-02T04:46:36.677Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.192539" lon="141.819916">
+        <ele>97</ele>
+        <time>2017-07-02T04:46:35.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+    <trkseg>
+      <trkpt lat="43.192574" lon="141.820053">
+        <ele>91</ele>
+        <time>2017-07-02T04:49:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="91.6" s="0.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19257" lon="141.820175">
+        <ele>88</ele>
+        <time>2017-07-02T04:49:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="88" s="0.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192566" lon="141.820297">
+        <ele>92</ele>
+        <time>2017-07-02T04:49:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.4" s="0.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192574" lon="141.820435">
+        <ele>95</ele>
+        <time>2017-07-02T04:50:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.6" s="0.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192593" lon="141.820557">
+        <ele>94</ele>
+        <time>2017-07-02T04:50:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="100.9" s="1.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192589" lon="141.820694">
+        <ele>93</ele>
+        <time>2017-07-02T04:50:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.6" s="1.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192589" lon="141.820816">
+        <ele>91</ele>
+        <time>2017-07-02T04:50:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="82.2" s="1.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192593" lon="141.820953">
+        <ele>90</ele>
+        <time>2017-07-02T04:51:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.1" s="1.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192577" lon="141.821091">
+        <ele>91</ele>
+        <time>2017-07-02T04:51:18.000Z</time>
+        <extensions>
+          <geotracker:meta c="77.6" s="0.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192604" lon="141.821213">
+        <ele>89</ele>
+        <time>2017-07-02T04:51:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="97" s="1.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192619" lon="141.821335">
+        <ele>89</ele>
+        <time>2017-07-02T04:51:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="65.9" s="1.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192604" lon="141.821472">
+        <ele>88</ele>
+        <time>2017-07-02T04:51:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.8" s="1.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192581" lon="141.821594">
+        <ele>85</ele>
+        <time>2017-07-02T04:51:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.6" s="1.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192577" lon="141.821716">
+        <ele>85</ele>
+        <time>2017-07-02T04:52:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="72.4" s="1.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192581" lon="141.821838">
+        <ele>83</ele>
+        <time>2017-07-02T04:52:12.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192585" lon="141.82196">
+        <ele>83</ele>
+        <time>2017-07-02T04:52:20.000Z</time>
+        <extensions>
+          <geotracker:meta c="86.2" s="0.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.1926" lon="141.822098">
+        <ele>81</ele>
+        <time>2017-07-02T04:52:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.9" s="1.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192604" lon="141.822235">
+        <ele>82</ele>
+        <time>2017-07-02T04:52:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.8" s="1.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192616" lon="141.822372">
+        <ele>82</ele>
+        <time>2017-07-02T04:52:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.7" s="1.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192616" lon="141.822495">
+        <ele>78</ele>
+        <time>2017-07-02T04:52:54.000Z</time>
+        <extensions>
+          <geotracker:meta c="84.5" s="1.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192627" lon="141.822632">
+        <ele>79</ele>
+        <time>2017-07-02T04:53:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.9" s="1.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192539" lon="141.822662">
+        <ele>78</ele>
+        <time>2017-07-02T04:53:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="188.5" s="0.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192444" lon="141.822662">
+        <ele>76</ele>
+        <time>2017-07-02T04:53:50.000Z</time>
+        <extensions>
+          <geotracker:meta c="174.1" s="0.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192352" lon="141.822678">
+        <ele>77</ele>
+        <time>2017-07-02T04:54:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="183.1" s="0.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192261" lon="141.822708">
+        <ele>75</ele>
+        <time>2017-07-02T04:54:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="171.4" s="0.97" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192169" lon="141.822739">
+        <ele>75</ele>
+        <time>2017-07-02T04:54:38.000Z</time>
+        <extensions>
+          <geotracker:meta c="171.8" s="0.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192078" lon="141.822754">
+        <ele>75</ele>
+        <time>2017-07-02T04:55:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="166" s="1.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191986" lon="141.822769">
+        <ele>77</ele>
+        <time>2017-07-02T04:55:21.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191895" lon="141.822784">
+        <ele>74</ele>
+        <time>2017-07-02T04:55:36.000Z</time>
+        <extensions>
+          <geotracker:meta c="191" s="1.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191807" lon="141.822723">
+        <ele>74</ele>
+        <time>2017-07-02T04:55:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="228.6" s="0.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191738" lon="141.822632">
+        <ele>74</ele>
+        <time>2017-07-02T04:56:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="219.8" s="0.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191658" lon="141.822571">
+        <ele>74</ele>
+        <time>2017-07-02T04:56:25.000Z</time>
+        <extensions>
+          <geotracker:meta c="206.6" s="0.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191605" lon="141.822479">
+        <ele>75</ele>
+        <time>2017-07-02T04:56:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="228.1" s="0.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191532" lon="141.822388">
+        <ele>77</ele>
+        <time>2017-07-02T04:56:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="208.3" s="0.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191452" lon="141.822311">
+        <ele>78</ele>
+        <time>2017-07-02T04:57:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="228.2" s="1.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191391" lon="141.82222">
+        <ele>77</ele>
+        <time>2017-07-02T04:57:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="246" s="1.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191315" lon="141.822144">
+        <ele>77</ele>
+        <time>2017-07-02T04:57:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="235.1" s="0.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191246" lon="141.822052">
+        <ele>77</ele>
+        <time>2017-07-02T04:58:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="210.4" s="0.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191185" lon="141.82196">
+        <ele>81</ele>
+        <time>2017-07-02T04:58:14.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191101" lon="141.821899">
+        <ele>83</ele>
+        <time>2017-07-02T04:58:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="188.3" s="0.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19101" lon="141.821884">
+        <ele>82</ele>
+        <time>2017-07-02T04:58:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="177.8" s="0.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190918" lon="141.821869">
+        <ele>82</ele>
+        <time>2017-07-02T04:59:04.000Z</time>
+        <extensions>
+          <geotracker:meta c="201.9" s="0.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190826" lon="141.821884">
+        <ele>83</ele>
+        <time>2017-07-02T04:59:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="192.4" s="0.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190735" lon="141.821854">
+        <ele>85</ele>
+        <time>2017-07-02T04:59:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="205.6" s="0.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190662" lon="141.821777">
+        <ele>86</ele>
+        <time>2017-07-02T04:59:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="232.5" s="1.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190651" lon="141.82164">
+        <ele>84</ele>
+        <time>2017-07-02T05:00:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="277.6" s="1.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190701" lon="141.821518">
+        <ele>85</ele>
+        <time>2017-07-02T05:00:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="302.6" s="1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190754" lon="141.821426">
+        <ele>87</ele>
+        <time>2017-07-02T05:00:30.000Z</time>
+        <extensions>
+          <geotracker:meta c="339.7" s="0.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190842" lon="141.821396">
+        <ele>88</ele>
+        <time>2017-07-02T05:00:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="348.5" s="0.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190933" lon="141.821335">
+        <ele>86</ele>
+        <time>2017-07-02T05:01:07.000Z</time>
+        <extensions>
+          <geotracker:meta c="354.2" s="0.86" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191021" lon="141.82132">
+        <ele>86</ele>
+        <time>2017-07-02T05:01:26.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191109" lon="141.821289">
+        <ele>85</ele>
+        <time>2017-07-02T05:01:40.000Z</time>
+        <extensions>
+          <geotracker:meta c="357.8" s="0.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.1912" lon="141.821259">
+        <ele>87</ele>
+        <time>2017-07-02T05:02:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="341.7" s="0.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191288" lon="141.821259">
+        <ele>90</ele>
+        <time>2017-07-02T05:02:14.000Z</time>
+        <extensions>
+          <geotracker:meta c="349.9" s="0.66" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191383" lon="141.821243">
+        <ele>86</ele>
+        <time>2017-07-02T05:02:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="0.3" s="0.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191471" lon="141.821228">
+        <ele>88</ele>
+        <time>2017-07-02T05:02:50.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191563" lon="141.821228">
+        <ele>88</ele>
+        <time>2017-07-02T05:03:04.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191654" lon="141.821198">
+        <ele>90</ele>
+        <time>2017-07-02T05:03:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="345.1" s="0.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191753" lon="141.821182">
+        <ele>93</ele>
+        <time>2017-07-02T05:03:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="350.6" s="0.77" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  
+    <name>2017/07/02 午前11:48:54</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>689.79</length>
+        <duration>1416083</duration>
+        <creationtime>2017-07-02T02:48:54.800Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.191822" lon="141.818588">
+        <ele>105</ele>
+        <time>2017-07-02T02:48:51.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191727" lon="141.818604">
+        <ele>104</ele>
+        <time>2017-07-02T02:49:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="177.2" s="0.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191635" lon="141.818604">
+        <ele>104</ele>
+        <time>2017-07-02T02:49:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="174.9" s="0.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191544" lon="141.818619">
+        <ele>103</ele>
+        <time>2017-07-02T02:50:33.000Z</time>
+        <extensions>
+          <geotracker:meta c="203.4" s="0.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191456" lon="141.818665">
+        <ele>105</ele>
+        <time>2017-07-02T02:50:57.000Z</time>
+        <extensions>
+          <geotracker:meta c="173.6" s="0.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191364" lon="141.81868">
+        <ele>105</ele>
+        <time>2017-07-02T02:51:16.000Z</time>
+        <extensions>
+          <geotracker:meta c="121.3" s="0.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19128" lon="141.818726">
+        <ele>104</ele>
+        <time>2017-07-02T02:51:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="179.1" s="0.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191181" lon="141.818741">
+        <ele>103</ele>
+        <time>2017-07-02T02:52:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="181.2" s="0.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191082" lon="141.818756">
+        <ele>102</ele>
+        <time>2017-07-02T02:52:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="168.9" s="0.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19099" lon="141.818771">
+        <ele>102</ele>
+        <time>2017-07-02T02:52:59.000Z</time>
+        <extensions>
+          <geotracker:meta c="168.8" s="0.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190907" lon="141.818726">
+        <ele>103</ele>
+        <time>2017-07-02T02:54:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="261.8" s="0.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190903" lon="141.818588">
+        <ele>104</ele>
+        <time>2017-07-02T02:54:11.000Z</time>
+        <extensions>
+          <geotracker:meta c="271.4" s="0.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190895" lon="141.818466">
+        <ele>104</ele>
+        <time>2017-07-02T02:54:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="260.1" s="1.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190887" lon="141.818344">
+        <ele>104</ele>
+        <time>2017-07-02T02:54:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="260.3" s="0.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190891" lon="141.818207">
+        <ele>106</ele>
+        <time>2017-07-02T02:54:44.000Z</time>
+        <extensions>
+          <geotracker:meta c="266.2" s="0.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190884" lon="141.818069">
+        <ele>107</ele>
+        <time>2017-07-02T02:54:55.000Z</time>
+        <extensions>
+          <geotracker:meta c="276.3" s="1.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19088" lon="141.817947">
+        <ele>107</ele>
+        <time>2017-07-02T02:55:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="262.8" s="0.86" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190899" lon="141.817825">
+        <ele>111</ele>
+        <time>2017-07-02T02:55:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="271.2" s="0.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190884" lon="141.817688">
+        <ele>114</ele>
+        <time>2017-07-02T02:55:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="265.5" s="1.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190865" lon="141.817566">
+        <ele>115</ele>
+        <time>2017-07-02T02:55:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="263.8" s="0.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190845" lon="141.817444">
+        <ele>120</ele>
+        <time>2017-07-02T02:56:05.000Z</time>
+        <extensions>
+          <geotracker:meta c="254.1" s="0.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.190929" lon="141.817398">
+        <ele>118</ele>
+        <time>2017-07-02T02:57:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="0.4" s="0.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191029" lon="141.817398">
+        <ele>118</ele>
+        <time>2017-07-02T02:57:46.000Z</time>
+        <extensions>
+          <geotracker:meta c="336.2" s="1.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19112" lon="141.817398">
+        <ele>120</ele>
+        <time>2017-07-02T02:58:09.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191212" lon="141.817413">
+        <ele>121</ele>
+        <time>2017-07-02T02:58:34.000Z</time>
+        <extensions>
+          <geotracker:meta c="6.7" s="0.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191307" lon="141.817413">
+        <ele>122</ele>
+        <time>2017-07-02T02:58:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="6.8" s="0.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19141" lon="141.817413">
+        <ele>123</ele>
+        <time>2017-07-02T02:59:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="5" s="0.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191498" lon="141.817429">
+        <ele>123</ele>
+        <time>2017-07-02T03:00:22.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191597" lon="141.817429">
+        <ele>122</ele>
+        <time>2017-07-02T03:00:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="7" s="0.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191685" lon="141.817459">
+        <ele>120</ele>
+        <time>2017-07-02T03:01:08.000Z</time>
+        <extensions>
+          <geotracker:meta c="8.7" s="0.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19178" lon="141.817459">
+        <ele>122</ele>
+        <time>2017-07-02T03:01:29.000Z</time>
+        <extensions>
+          <geotracker:meta c="2.6" s="0.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191872" lon="141.817459">
+        <ele>123</ele>
+        <time>2017-07-02T03:01:53.000Z</time>
+        <extensions>
+          <geotracker:meta c="2.6" s="0.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191959" lon="141.817444">
+        <ele>123</ele>
+        <time>2017-07-02T03:02:09.000Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192059" lon="141.817444">
+        <ele>124</ele>
+        <time>2017-07-02T03:02:31.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.6" s="0.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192146" lon="141.817459">
+        <ele>126</ele>
+        <time>2017-07-02T03:02:56.000Z</time>
+        <extensions>
+          <geotracker:meta c="351.3" s="0.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192238" lon="141.817444">
+        <ele>125</ele>
+        <time>2017-07-02T03:03:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="1.6" s="0.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192329" lon="141.817459">
+        <ele>126</ele>
+        <time>2017-07-02T03:03:45.000Z</time>
+        <extensions>
+          <geotracker:meta c="352.7" s="0.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192429" lon="141.817459">
+        <ele>125</ele>
+        <time>2017-07-02T03:04:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="18.7" s="1.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192471" lon="141.817581">
+        <ele>123</ele>
+        <time>2017-07-02T03:04:15.000Z</time>
+        <extensions>
+          <geotracker:meta c="78.2" s="0.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192471" lon="141.817703">
+        <ele>119</ele>
+        <time>2017-07-02T03:04:27.000Z</time>
+        <extensions>
+          <geotracker:meta c="95.4" s="0.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192482" lon="141.817825">
+        <ele>115</ele>
+        <time>2017-07-02T03:04:39.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.4" s="0.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192497" lon="141.817963">
+        <ele>113</ele>
+        <time>2017-07-02T03:04:51.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.9" s="0.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192509" lon="141.818085">
+        <ele>112</ele>
+        <time>2017-07-02T03:05:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="83.3" s="0.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19252" lon="141.818222">
+        <ele>111</ele>
+        <time>2017-07-02T03:05:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.9" s="1.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19252" lon="141.818344">
+        <ele>109</ele>
+        <time>2017-07-02T03:05:24.000Z</time>
+        <extensions>
+          <geotracker:meta c="85.2" s="0.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192516" lon="141.818481">
+        <ele>109</ele>
+        <time>2017-07-02T03:05:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="105.4" s="1.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192524" lon="141.818604">
+        <ele>108</ele>
+        <time>2017-07-02T03:05:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.1" s="0.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192528" lon="141.818726">
+        <ele>105</ele>
+        <time>2017-07-02T03:06:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="89.2" s="0.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192535" lon="141.818863">
+        <ele>104</ele>
+        <time>2017-07-02T03:06:12.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.9" s="0.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192535" lon="141.818985">
+        <ele>102</ele>
+        <time>2017-07-02T03:06:22.000Z</time>
+        <extensions>
+          <geotracker:meta c="87.8" s="1.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192539" lon="141.819107">
+        <ele>102</ele>
+        <time>2017-07-02T03:06:32.000Z</time>
+        <extensions>
+          <geotracker:meta c="93.6" s="0.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192539" lon="141.819244">
+        <ele>100</ele>
+        <time>2017-07-02T03:06:43.000Z</time>
+        <extensions>
+          <geotracker:meta c="90.8" s="0.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192539" lon="141.819366">
+        <ele>99</ele>
+        <time>2017-07-02T03:06:52.000Z</time>
+        <extensions>
+          <geotracker:meta c="88.6" s="1.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192543" lon="141.819504">
+        <ele>97</ele>
+        <time>2017-07-02T03:07:03.000Z</time>
+        <extensions>
+          <geotracker:meta c="92.6" s="1.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192551" lon="141.819626">
+        <ele>96</ele>
+        <time>2017-07-02T03:07:13.000Z</time>
+        <extensions>
+          <geotracker:meta c="94.4" s="0.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192543" lon="141.819763">
+        <ele>96</ele>
+        <time>2017-07-02T03:07:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="152.3" s="0.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192451" lon="141.819778">
+        <ele>96</ele>
+        <time>2017-07-02T03:08:17.000Z</time>
+        <extensions>
+          <geotracker:meta c="195.5" s="0.69" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19236" lon="141.819809">
+        <ele>96</ele>
+        <time>2017-07-02T03:08:37.000Z</time>
+        <extensions>
+          <geotracker:meta c="162" s="0.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192268" lon="141.819824">
+        <ele>97</ele>
+        <time>2017-07-02T03:09:01.000Z</time>
+        <extensions>
+          <geotracker:meta c="171.4" s="0.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192177" lon="141.819855">
+        <ele>97</ele>
+        <time>2017-07-02T03:09:21.000Z</time>
+        <extensions>
+          <geotracker:meta c="169" s="0.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.192085" lon="141.81987">
+        <ele>98</ele>
+        <time>2017-07-02T03:09:42.000Z</time>
+        <extensions>
+          <geotracker:meta c="174.9" s="0.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191994" lon="141.819901">
+        <ele>97</ele>
+        <time>2017-07-02T03:10:02.000Z</time>
+        <extensions>
+          <geotracker:meta c="167.6" s="0.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191898" lon="141.819901">
+        <ele>97</ele>
+        <time>2017-07-02T03:10:26.000Z</time>
+        <extensions>
+          <geotracker:meta c="167.5" s="1.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191807" lon="141.819931">
+        <ele>97</ele>
+        <time>2017-07-02T03:10:47.000Z</time>
+        <extensions>
+          <geotracker:meta c="174.6" s="0.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191711" lon="141.819946">
+        <ele>98</ele>
+        <time>2017-07-02T03:11:10.000Z</time>
+        <extensions>
+          <geotracker:meta c="177.9" s="0.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.19162" lon="141.819977">
+        <ele>98</ele>
+        <time>2017-07-02T03:11:28.000Z</time>
+        <extensions>
+          <geotracker:meta c="164.6" s="0.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="43.191532" lon="141.819992">
+        <ele>99</ele>
+        <time>2017-07-02T03:11:48.000Z</time>
+        <extensions>
+          <geotracker:meta c="165.5" s="0.82" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
